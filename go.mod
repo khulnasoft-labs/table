@@ -3,7 +3,7 @@ module github.com/khulnasoft-labs/table
 go 1.18
 
 require (
-	github.com/mattn/go-runewidth v0.0.13
+	github.com/mattn/go-runewidth v0.0.15
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467
 )
