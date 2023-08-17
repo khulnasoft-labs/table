@@ -5,7 +5,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {

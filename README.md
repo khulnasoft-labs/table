@@ -15,7 +15,7 @@ This is a Go module for rendering tables in the terminal.
 - :dancers: Support for double-width unicode characters
 - :bar_chart: Load data from CSV files
 
-Check out the [documentation](https://pkg.go.dev/github.com/khulnasoft-labs/table) for full features/usage.
+Check out the [documentation](https://pkg.go.dev/github.com/khulnasoft-lab/table) for full features/usage.
 
 ## Examples
 
@@ -27,7 +27,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -69,7 +69,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -109,7 +109,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -150,7 +150,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -189,7 +189,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -232,7 +232,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -277,7 +277,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -320,7 +320,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -363,7 +363,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -406,7 +406,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -462,7 +462,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -506,7 +506,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -546,7 +546,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -587,7 +587,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -628,7 +628,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
@@ -648,7 +648,7 @@ package main
 import (
 	"os"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 	"github.com/liamg/tml"
 )
 

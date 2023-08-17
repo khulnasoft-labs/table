@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/table
+module github.com/khulnasoft-lab/table
 
 go 1.18
 

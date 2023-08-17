@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/khulnasoft-labs/table"
+	"github.com/khulnasoft-lab/table"
 )
 
 func main() {
